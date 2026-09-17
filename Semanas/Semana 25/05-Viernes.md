@@ -25,8 +25,8 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
-- [Abrir nota del problema](../../LeetCode/Semana%2025/05-Viernes-alien-dictionary.md)
+- [ ] [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)
+- [Abrir nota del problema](../../LeetCode/Semana%2025/05-Viernes-all-ancestors-of-a-node-in-a-directed-acyclic-graph.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día
