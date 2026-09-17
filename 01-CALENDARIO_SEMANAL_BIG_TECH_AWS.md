@@ -16,11 +16,11 @@ fin: 2027-05-28
 # Calendario semanal: Big Tech SDE New Grad + AWS
 
 > [!info] Punto de partida
-> Inicio: lunes 7 de septiembre de 2026.  
-> AWS: comenzando el módulo 6 de Cloud Practitioner.  
+> Inicio: lunes 7 de septiembre de 2026.
+> AWS: comenzando el módulo 6 de Cloud Practitioner.
 > Meta: llegar a mayo de 2027 preparado para procesos SDE New Grad, con Cloud Practitioner, Solutions Architect – Associate y una migración demostrable a AWS.
 
-Nota relacionada: [[00-Plan-principal]]
+Notas relacionadas: [plan principal](00-Plan-principal.md) · [tablero](02-TABLERO-DE-PROGRESO.md) · [índice semanal](Semanas/00-%C3%8Dndice-semanal.md)
 
 ## Reglas del calendario
 
@@ -71,10 +71,10 @@ Nota relacionada: [[00-Plan-principal]]
 
 - [x] **Lunes:** completar el módulo 6 en Skill Builder y escribir una nota con conceptos, servicios, dudas y cinco preguntas propias.
 - [x] **Lunes:** resolver [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) usando una pila y explicar tiempo y espacio.
-- [ ] **Lunes:** crear el registro de errores de algoritmos y el registro de errores de AWS.
-- [ ] **Martes:** rehacer Valid Parentheses desde cero sin ver la solución.
+- [x] **Lunes:** crear el registro de errores de algoritmos y el registro de errores de AWS.
+- [x] **Martes:** rehacer Valid Parentheses desde cero sin ver la solución.
 - [x] **Miércoles:** contestar 15–20 preguntas relacionadas con lo estudiado hasta el módulo 6 y registrar cada error.
-- [ ] **Jueves:** terminar o rehacer [Group Anagrams](https://leetcode.com/problems/group-anagrams/) y explicar la firma usada para agrupar.
+- [x] **Jueves:** terminar o rehacer [Group Anagrams](https://leetcode.com/problems/group-anagrams/) y explicar la firma usada para agrupar.
 - [x] **Viernes:** crear alertas de empleo para New Grad, University Graduate, Early Career y Software Engineer I.
 
 **Cierre semanal:** módulo 6 terminado, dos soluciones explicables y tracker laboral creado.
@@ -83,12 +83,12 @@ Nota relacionada: [[00-Plan-principal]]
 
 **Objetivo:** avanzar aproximadamente la mitad del contenido posterior al módulo 6.
 
-- [ ] **Lunes:** avanzar 40–50% de los módulos restantes de Cloud Practitioner.
-- [ ] **Lunes:** repasar responsabilidad compartida, IAM, regiones, zonas de disponibilidad y ubicaciones de borde.
-- [ ] **Lunes:** realizar una práctica guiada de IAM o seguridad en Skill Builder.
-- [ ] **Martes:** rehacer [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) con Set y explicar por qué es O(n).
-- [ ] **Miércoles:** contestar 20 preguntas mixtas de Cloud Practitioner.
-- [ ] **Jueves:** resolver [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) con two pointers.
+- [x] **Lunes:** avanzar 40–50% de los módulos restantes de Cloud Practitioner.
+- [x] **Lunes:** repasar responsabilidad compartida, IAM, regiones, zonas de disponibilidad y ubicaciones de borde.
+- [x] **Lunes:** realizar una práctica guiada de IAM o seguridad en Skill Builder.
+- [x] **Martes:** rehacer [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) con Set y explicar por qué es O(n).
+- [x] **Miércoles:** contestar 20 preguntas mixtas de Cloud Practitioner.
+- [x] **Jueves:** resolver [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) con two pointers.
 - [ ] **Viernes:** anotar métricas reales de Academy y del chatbot que puedan utilizarse en el CV.
 
 **Cierre semanal:** mitad del curso restante, un laboratorio y dos problemas dominados.
@@ -97,7 +97,7 @@ Nota relacionada: [[00-Plan-principal]]
 
 **Objetivo:** terminar el curso base y medir el nivel por dominio.
 
-- [ ] **Lunes:** terminar todos los módulos restantes del curso base de Cloud Practitioner.
+- [x] **Lunes:** terminar todos los módulos restantes del curso base de Cloud Practitioner.
 - [ ] **Lunes:** construir una tabla comparativa de EC2, Lambda, ECS, Fargate, Lightsail y Elastic Beanstalk.
 - [ ] **Lunes:** resolver [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) y comparar two pointers contra hash map.
 - [ ] **Martes:** resolver [Move Zeroes](https://leetcode.com/problems/move-zeroes/) sin crear otro arreglo.
