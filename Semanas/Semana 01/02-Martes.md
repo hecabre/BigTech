@@ -24,17 +24,17 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Abrir nota del problema](../../LeetCode/Semana%2001/02-Martes-valid-anagram.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día
 
-- **Resultado:**
+- **Resultado:** Se resolvio valid anagram, basicamente estos problemas de anagramas se puede resolver si ordenamos lo que tenemos y vemos si son iguales. Valid parentheses es una cola que sacamos los parentesis que tenemos
 - **Evidencia o enlace:**
 - **Tiempo invertido:**
 - **Qué entendí:**
-- **Duda pendiente:**
+- **Duda pendiente:** Hay una mejor manera de resolver valid anagram?
 - **Error o aprendizaje para registrar:**
 
 ## Notas

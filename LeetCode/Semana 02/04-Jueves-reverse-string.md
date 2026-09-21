@@ -8,7 +8,7 @@
 
 ## Antes de programar
 
-- **Entrada y salida con mis palabras:**
+- **Entrada y salida con mis palabras:** Basicamente usamos dos punteros que hasta que se crucen se repite, guardamos los valores antes de sustituirlos y los invertimos, este fue sencillo
 - **Restricciones importantes:**
 - **Casos límite:**
 - **Fuerza bruta y su costo:**
@@ -17,22 +17,50 @@
 ## Mi solución
 
 ```ts
+/**
 
+Do not return anything, modify s in-place instead.
+
+*/
+
+function reverseString(s: string[]): void {
+
+let left = 0
+
+let right = s.length - 1
+
+while(left < right){
+
+let aux = s[right]
+
+let aux2 = s[left]
+
+s[right] = aux2
+
+s[left] = aux
+
+left++
+
+right--
+
+}
+
+};
 ```
 
 ## Complejidad
 
-- **Tiempo:**
-- **Por qué:**
-- **Espacio adicional:**
-- **Por qué:**
+- **Tiempo:** TIempo n
+- **Por qué:** Porque recorremos el arrelo 1 vez
+- **Espacio adicional:** Estamos usando O1
+- **Por qué:** Porque solo creamos dos variables en este caso
 
 ## Error o aprendizaje
 
-- **Dónde me atasqué:**
-- **Pista consultada:**
-- **Invariante o idea clave:**
-- **Qué haré distinto:**
+- **Dónde me atasqué:** Nada
+- **Pista consultada:** NAda
+- **Invariante o idea clave:** Dos punteros
+- **Qué haré distinto:** No usas variables auxiliares
 
 ## Repetición espaciada
 

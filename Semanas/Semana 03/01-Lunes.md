@@ -17,7 +17,7 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 - [x] terminar todos los módulos restantes del curso base de Cloud Practitioner.
 - [ ] construir una tabla comparativa de EC2, Lambda, ECS, Fargate, Lightsail y Elastic Beanstalk.
-- [ ] resolver [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) y comparar two pointers contra hash map.
+- [x] resolver [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) y comparar two pointers contra hash map.
 
 ## Lectura en transporte — 10 a 20 minutos
 
@@ -26,13 +26,14 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Single Number](https://leetcode.com/problems/single-number/)
+- [x] [Single Number](https://leetcode.com/problems/single-number/)
 - [Abrir nota del problema](../../LeetCode/Semana%2003/01-Lunes-single-number.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día
 
-- **Resultado:**
+- **Resultado:** Este fue dificil porque si usas un map tienes que recorrer el arreglo N y en memoria tenemos igual N, pero si usas dos punteros con busqueda binaria, lo que tenemos es memoria 1 y log n porque partimos a la mitad, es mejor busqueda binaria en este caso.
+- SIngle number lo hacia como parentesis validos, pero usando una XOR te da basicamente tiempo n con memoria 1 porque XOR elimina duplicados automaticamente, entonces solo retornas el valor
 - **Evidencia o enlace:**
 - **Tiempo invertido:**
 - **Qué entendí:**

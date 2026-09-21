@@ -24,7 +24,7 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Reverse String](https://leetcode.com/problems/reverse-string/)
+- [x] [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Abrir nota del problema](../../LeetCode/Semana%2002/04-Jueves-reverse-string.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
