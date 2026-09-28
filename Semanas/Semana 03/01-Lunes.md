@@ -16,7 +16,7 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 ## Tareas del calendario
 
 - [x] terminar todos los módulos restantes del curso base de Cloud Practitioner.
-- [ ] construir una tabla comparativa de EC2, Lambda, ECS, Fargate, Lightsail y Elastic Beanstalk.
+- [ ] construir una tabla comparativa de EC2, Lambda, ECS, Fargate, Lightsail y Elastic Beanstalk. [[Tabla Comparativa]]
 - [x] resolver [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) y comparar two pointers contra hash map.
 
 ## Lectura en transporte — 10 a 20 minutos

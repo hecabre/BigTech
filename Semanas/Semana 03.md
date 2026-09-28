@@ -2,7 +2,7 @@
 semana: 3
 fechas: 2026-09-21/2026-09-25
 fase: Cloud Practitioner
-estado: No iniciada
+estado: En curso
 ---
 
 # Semana 03
@@ -25,6 +25,7 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 
 ## Resultado principal
 
+Official Practice Question Set completado dos veces. En el intento 2: 70% (14/20). Dominios más débiles: seguridad y cumplimiento (50%) y tecnología y servicios (67%).
 
 ## Plan
 
@@ -34,6 +35,9 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 
 ## Evidencia y aprendizajes
 
+- [Resultado detallado del miércoles](Semana%2003/03-Miercoles.md#registro-del-día)
+- Fortalezas actuales: facturación, precios y soporte (100%).
+- Prioridades de repaso: IAM y recursos de seguridad; implementación/operación; infraestructura global; migración.
 
 ## Cierre del viernes
 

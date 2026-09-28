@@ -13,7 +13,7 @@ Estados sugeridos: `No iniciada`, `En curso`, `Completa`, `Reprogramada`.
 | ---------------------------: | ------------ | --------------------- | ----------- | -------------------------------------------- |
 | [01](Semanas/Semana%2001.md) | 7–11 sep     | Cloud Practitioner    | Completa    | Módulo 6, Valid Parentheses y Group Anagrams |
 | [02](Semanas/Semana%2002.md) | 14–18 sep    | Cloud Practitioner    | En curso    |                                              |
-| [03](Semanas/Semana%2003.md) | 21–25 sep    | Cloud Practitioner    | No iniciada |                                              |
+| [03](Semanas/Semana%2003.md) | 21–25 sep    | Cloud Practitioner    | En curso    | Practice Questions intento 2: 70% (14/20)    |
 | [04](Semanas/Semana%2004.md) | 28 sep–2 oct | Cloud Practitioner    | No iniciada |                                              |
 | [05](Semanas/Semana%2005.md) | 5–9 oct      | SAA + DSA             | No iniciada |                                              |
 | [06](Semanas/Semana%2006.md) | 12–16 oct    | SAA + DSA             | No iniciada |                                              |

@@ -98,11 +98,11 @@ Notas relacionadas: [plan principal](00-Plan-principal.md) · [tablero](02-TABLE
 **Objetivo:** terminar el curso base y medir el nivel por dominio.
 
 - [x] **Lunes:** terminar todos los módulos restantes del curso base de Cloud Practitioner.
-- [ ] **Lunes:** construir una tabla comparativa de EC2, Lambda, ECS, Fargate, Lightsail y Elastic Beanstalk.
+- [x] **Lunes:** construir una tabla comparativa de EC2, Lambda, ECS, Fargate, Lightsail y Elastic Beanstalk.
 - [x] **Lunes:** resolver [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) y comparar two pointers contra hash map.
-- [ ] **Martes:** resolver [Move Zeroes](https://leetcode.com/problems/move-zeroes/) sin crear otro arreglo.
-- [ ] **Miércoles:** realizar el Official Practice Question Set y registrar el porcentaje por dominio.
-- [ ] **Jueves:** volver a resolver [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) explicando el invariante.
+- [x] **Martes:** resolver [Move Zeroes](https://leetcode.com/problems/move-zeroes/) sin crear otro arreglo.
+- [x] **Miércoles:** realizar el Official Practice Question Set y registrar el porcentaje por dominio.
+- [x] **Jueves:** volver a resolver [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) explicando el invariante.
 - [ ] **Viernes:** escribir el primer borrador de CV en inglés, aunque todavía no sea la versión final.
 
 **Cierre semanal:** curso terminado y dominios débiles identificados.
