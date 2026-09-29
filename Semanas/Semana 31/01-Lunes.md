@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 31 — Lunes
 
+> [!quote] Frase del día
+> Si todo se ve grande, elige la tarea más pequeña y empieza por ahí.
+
+> [!quote] Palabra de Arnold Schwarzenegger
+> «No puedes subir la escalera del éxito con las manos en los bolsillos.»
+> — *Arnold Schwarzenegger, siete veces Mr. Olympia*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Most Common Word* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 31](../Semana%2031.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [Martes →](02-Martes.md)
@@ -25,8 +35,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [Abrir nota del problema](../../LeetCode/Semana%2031/01-Lunes-longest-substring-without-repeating-characters.md)
+- [ ] [Most Common Word](https://leetcode.com/problems/most-common-word/) — Easy
+- **Patrón:** Hash map · **Se apoya en:** [Top K Frequent Words](../../LeetCode/Semana%2012/04-Jueves-top-k-frequent-words.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2031/01-Lunes-most-common-word.md) · [repasar el patrón](../../Estudio/Articulos/03-Arrays-hash-maps-y-sets.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

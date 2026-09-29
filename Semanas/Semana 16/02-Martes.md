@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 16 — Martes
 
+> [!quote] Frase del día
+> Pregúntate qué invariante mantienes. Ahí vive la respuesta.
+
+> [!quote] Palabra de Nipsey Hussle
+> «The Marathon Continues. El maratón continúa.»
+> — *Nipsey Hussle, rapero y empresario*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Valid Parentheses* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 16](../Semana%2016.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Lunes](01-Lunes.md) · [Miércoles →](03-Miercoles.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [Abrir nota del problema](../../LeetCode/Semana%2016/02-Martes-product-of-array-except-self.md)
+- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — Easy · repaso
+- **Patrón:** Stack
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2016/02-Martes-valid-parentheses.md) · [repasar el patrón](../../Estudio/Articulos/05-Pilas-y-colas.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

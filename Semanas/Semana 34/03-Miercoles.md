@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 34 — Miércoles
 
+> [!quote] Frase del día
+> Un día a la vez. Hoy es miércoles, nada más.
+
+> [!quote] Palabra de Grace Hopper
+> «La frase más peligrosa del idioma es: «Siempre lo hemos hecho así».»
+> — *Grace Hopper, pionera de la computación y almirante de la Marina de EE. UU.*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Minimum Window Substring* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 34](../Semana%2034.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Martes](02-Martes.md) · [Jueves →](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
-- [Abrir nota del problema](../../LeetCode/Semana%2034/03-Miercoles-coin-change.md)
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) — Hard
+- **Patrón:** Sliding window · **Se apoya en:** [Longest Substring Without Repeating Characters](../../LeetCode/Semana%2017/04-Jueves-longest-substring-without-repeating-characters.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2034/03-Miercoles-minimum-window-substring.md) · [repasar el patrón](../../Estudio/Articulos/04-Dos-punteros-y-ventana-deslizante.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

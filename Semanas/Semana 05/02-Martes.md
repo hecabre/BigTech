@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 05 — Martes
 
+> [!quote] Frase del día
+> Si no sale en 30 minutos, no fallaste: encontraste lo que te toca aprender.
+
+> [!quote] Palabra de Richard Feynman
+> «Lo que no puedo crear, no lo entiendo.»
+> — *Richard Feynman, Nobel de Física; estaba escrito en su pizarrón*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Remove All Adjacent Duplicates In String* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 05](../Semana%2005.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Lunes](01-Lunes.md) · [Miércoles →](03-Miercoles.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Decode String](https://leetcode.com/problems/decode-string/)
-- [Abrir nota del problema](../../LeetCode/Semana%2005/02-Martes-decode-string.md)
+- [ ] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) — Easy
+- **Patrón:** Stack · **Se apoya en:** [Baseball Game](../../LeetCode/Semana%2005/01-Lunes-baseball-game.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2005/02-Martes-remove-all-adjacent-duplicates-in-string.md) · [repasar el patrón](../../Estudio/Articulos/05-Pilas-y-colas.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

@@ -23,6 +23,16 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 - [Carpeta de LeetCode opcional](../LeetCode/Semana%2023/)
 - [Registro general de LeetCode](../LeetCode/Registro.md)
 
+## Hilo de LeetCode de la semana
+
+**Enfoque:** DP de una dimensión. Cada problema se apoya en el anterior; hazlos en orden.
+
+1. **Lunes:** [Min Cost Climbing Stairs](../LeetCode/Semana%2023/01-Lunes-min-cost-climbing-stairs.md) — Easy · DP 1D
+2. **Martes:** [N-th Tribonacci Number](../LeetCode/Semana%2023/02-Martes-n-th-tribonacci-number.md) — Easy · DP 1D
+3. **Miércoles:** [House Robber II](../LeetCode/Semana%2023/03-Miercoles-house-robber-ii.md) — Medium · DP 1D
+4. **Jueves:** [Decode Ways](../LeetCode/Semana%2023/04-Jueves-decode-ways.md) — Medium · DP 1D
+5. **Viernes:** [Word Break](../LeetCode/Semana%2023/05-Viernes-word-break.md) — Medium · DP 1D
+
 ## Resultado principal
 
 

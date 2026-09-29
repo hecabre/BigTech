@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 18 — Viernes
 
+> [!quote] Frase del día
+> Descansa sin culpa: el lunes vuelves con la mente fresca.
+
+> [!quote] Palabra de Mike Tyson
+> «Todo el mundo tiene un plan hasta que le dan un golpe en la boca.»
+> — *Mike Tyson, campeón mundial de peso completo*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Jump Game II* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 18](../Semana%2018.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -25,8 +35,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Car Pooling](https://leetcode.com/problems/car-pooling/)
-- [Abrir nota del problema](../../LeetCode/Semana%2018/05-Viernes-car-pooling.md)
+- [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/) — Medium
+- **Patrón:** Greedy · **Se apoya en:** [Jump Game](https://leetcode.com/problems/jump-game/)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2018/05-Viernes-jump-game-ii.md) · [repasar el patrón](../../Estudio/Articulos/12-Greedy-e-intervalos.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

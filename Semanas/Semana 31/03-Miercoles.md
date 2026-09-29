@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 31 — Miércoles
 
+> [!quote] Frase del día
+> Hoy basta con una sesión corta y honesta.
+
+> [!quote] Palabra de Michael Jordan
+> «He fallado más de 9,000 tiros en mi carrera. He perdido casi 300 partidos. 26 veces me confiaron el tiro ganador y lo fallé. He fallado una y otra y otra vez en mi vida. Y por eso tengo éxito.»
+> — *Michael Jordan, seis veces campeón de la NBA*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Search Suggestions System* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 31](../Semana%2031.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Martes](02-Martes.md) · [Jueves →](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-- [Abrir nota del problema](../../LeetCode/Semana%2031/03-Miercoles-top-k-frequent-elements.md)
+- [ ] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) — Medium
+- **Patrón:** Sorting + binary search / Trie · **Se apoya en:** [Find First and Last Position of Element in Sorted Array](../../LeetCode/Semana%2008/05-Viernes-find-first-and-last-position-of-element-in-sorted-array.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2031/03-Miercoles-search-suggestions-system.md) · [repasar el patrón](../../Estudio/Articulos/07-Busqueda-binaria.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

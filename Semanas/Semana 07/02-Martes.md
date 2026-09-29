@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 07 — Martes
 
+> [!quote] Frase del día
+> Tu cerebro está aprendiendo aunque hoy no lo sientas.
+
+> [!quote] Palabra de Bruce Lee
+> «Vacía tu mente. Sin forma, como el agua. Be water, my friend.»
+> — *Bruce Lee, maestro de artes marciales*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Linked List Cycle* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 07](../Semana%2007.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Lunes](01-Lunes.md) · [Miércoles →](03-Miercoles.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-- [Abrir nota del problema](../../LeetCode/Semana%2007/02-Martes-intersection-of-two-linked-lists.md)
+- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) — Easy
+- **Patrón:** Fast & slow pointers · **Se apoya en:** [Middle of the Linked List](../../LeetCode/Semana%2007/01-Lunes-middle-of-the-linked-list.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2007/02-Martes-linked-list-cycle.md) · [repasar el patrón](../../Estudio/Articulos/06-Listas-enlazadas.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

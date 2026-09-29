@@ -23,6 +23,16 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 - [Carpeta de LeetCode opcional](../LeetCode/Semana%2026/)
 - [Registro general de LeetCode](../LeetCode/Registro.md)
 
+## Hilo de LeetCode de la semana
+
+**Enfoque:** Diseño de estructuras (POO). Cada problema se apoya en el anterior; hazlos en orden.
+
+1. **Lunes:** [Design HashMap](../LeetCode/Semana%2026/01-Lunes-design-hashmap.md) — Easy · Diseño
+2. **Martes:** [Design Circular Queue](../LeetCode/Semana%2026/02-Martes-design-circular-queue.md) — Medium · Diseño
+3. **Miércoles:** [LRU Cache](../LeetCode/Semana%2026/03-Miercoles-lru-cache.md) — Medium · Hash map + lista doble
+4. **Jueves:** [Insert Delete GetRandom O(1)](../LeetCode/Semana%2026/04-Jueves-insert-delete-getrandom-o1.md) — Medium · Hash map + array
+5. **Viernes:** [Time Based Key-Value Store](../LeetCode/Semana%2026/05-Viernes-time-based-key-value-store.md) — Medium · Hash map + binary search
+
 ## Resultado principal
 
 

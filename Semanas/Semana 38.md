@@ -23,6 +23,16 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 - [Carpeta de LeetCode opcional](../LeetCode/Semana%2038/)
 - [Registro general de LeetCode](../LeetCode/Registro.md)
 
+## Hilo de LeetCode de la semana
+
+**Enfoque:** Modo entrevista — repaso ligero. Cada problema se apoya en el anterior; hazlos en orden.
+
+1. **Lunes:** [Valid Parentheses](../LeetCode/Semana%2038/01-Lunes-valid-parentheses.md) — Easy · repaso · Stack
+2. **Martes:** [Merge Intervals](../LeetCode/Semana%2038/02-Martes-merge-intervals.md) — Medium · repaso · Intervalos
+3. **Miércoles:** [LRU Cache](../LeetCode/Semana%2038/03-Miercoles-lru-cache.md) — Medium · repaso · Hash map + lista doble
+4. **Jueves:** [Number of Islands](../LeetCode/Semana%2038/04-Jueves-number-of-islands.md) — Medium · repaso · Grid DFS
+5. **Viernes:** [Product of Array Except Self](../LeetCode/Semana%2038/05-Viernes-product-of-array-except-self.md) — Medium · repaso · Prefix/suffix
+
 ## Resultado principal
 
 

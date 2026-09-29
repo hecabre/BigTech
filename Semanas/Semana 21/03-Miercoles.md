@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 21 — Miércoles
 
+> [!quote] Frase del día
+> Hoy puedes hacer menos y hacerlo bien.
+
+> [!quote] Palabra de Jeff Bezos
+> «Sabía que si fallaba no me iba a arrepentir. Lo único de lo que me podría arrepentir era de no haberlo intentado.»
+> — *Jeff Bezos, sobre dejar su trabajo para fundar Amazon*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Binary Search* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 21](../Semana%2021.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Martes](02-Martes.md) · [Jueves →](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
-- [Abrir nota del problema](../../LeetCode/Semana%2021/03-Miercoles-daily-temperatures.md)
+- [ ] [Binary Search](https://leetcode.com/problems/binary-search/) — Easy · repaso
+- **Patrón:** Binary search
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2021/03-Miercoles-binary-search.md) · [repasar el patrón](../../Estudio/Articulos/07-Busqueda-binaria.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

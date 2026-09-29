@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 17 — Martes
 
+> [!quote] Frase del día
+> Poco a poco también se llega; lo importante es no detenerse del todo.
+
+> [!quote] Palabra de José Alfredo Jiménez
+> «No hay que llegar primero, pero hay que saber llegar.»
+> — *José Alfredo Jiménez, «El Rey»*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Best Time to Buy and Sell Stock* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 17](../Semana%2017.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Lunes](01-Lunes.md) · [Miércoles →](03-Miercoles.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
-- [Abrir nota del problema](../../LeetCode/Semana%2017/02-Martes-hand-of-straights.md)
+- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) — Easy · repaso
+- **Patrón:** Sliding window · **Se apoya en:** [Maximum Average Subarray I](../../LeetCode/Semana%2017/01-Lunes-maximum-average-subarray-i.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2017/02-Martes-best-time-to-buy-and-sell-stock.md) · [repasar el patrón](../../Estudio/Articulos/04-Dos-punteros-y-ventana-deslizante.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 14 — Miércoles
 
+> [!quote] Frase del día
+> Un día a la vez. Hoy es miércoles, nada más.
+
+> [!quote] Palabra de Jocko Willink
+> «Disciplina es libertad.»
+> — *Jocko Willink, ex Navy SEAL*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Surrounded Regions* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 14](../Semana%2014.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Martes](02-Martes.md) · [Jueves →](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
-- [Abrir nota del problema](../../LeetCode/Semana%2014/03-Miercoles-max-area-of-island.md)
+- [ ] [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) — Medium
+- **Patrón:** Grid DFS · **Se apoya en:** [Max Area of Island](../../LeetCode/Semana%2013/04-Jueves-max-area-of-island.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2014/03-Miercoles-surrounded-regions.md) · [repasar el patrón](../../Estudio/Articulos/10-Grafos-DFS-y-BFS.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

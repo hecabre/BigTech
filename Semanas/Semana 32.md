@@ -23,6 +23,16 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 - [Carpeta de LeetCode opcional](../LeetCode/Semana%2032/)
 - [Registro general de LeetCode](../LeetCode/Registro.md)
 
+## Hilo de LeetCode de la semana
+
+**Enfoque:** Árboles nivel entrevista. Cada problema se apoya en el anterior; hazlos en orden.
+
+1. **Lunes:** [All Nodes Distance K in Binary Tree](../LeetCode/Semana%2032/01-Lunes-all-nodes-distance-k-in-binary-tree.md) — Medium · Tree → grafo + BFS
+2. **Martes:** [Maximum Width of Binary Tree](../LeetCode/Semana%2032/02-Martes-maximum-width-of-binary-tree.md) — Medium · Tree BFS
+3. **Miércoles:** [Serialize and Deserialize Binary Tree](../LeetCode/Semana%2032/03-Miercoles-serialize-and-deserialize-binary-tree.md) — Hard · Tree DFS/BFS
+4. **Jueves:** [Lowest Common Ancestor of a Binary Tree](../LeetCode/Semana%2032/04-Jueves-lowest-common-ancestor-of-a-binary-tree.md) — Medium · repaso · Tree DFS
+5. **Viernes:** [Binary Tree Zigzag Level Order Traversal](../LeetCode/Semana%2032/05-Viernes-binary-tree-zigzag-level-order-traversal.md) — Medium · repaso · Tree BFS
+
 ## Resultado principal
 
 

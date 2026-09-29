@@ -23,6 +23,16 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 - [Carpeta de LeetCode opcional](../LeetCode/Semana%2004/)
 - [Registro general de LeetCode](../LeetCode/Registro.md)
 
+## Hilo de LeetCode de la semana
+
+**Enfoque:** Calentamiento arrays/strings (semana de examen CCP). Cada problema se apoya en el anterior; hazlos en orden.
+
+1. **Lunes:** [Roman to Integer](../LeetCode/Semana%2004/01-Lunes-roman-to-integer.md) — Easy · Hash map
+2. **Martes:** [Longest Common Prefix](../LeetCode/Semana%2004/02-Martes-longest-common-prefix.md) — Easy · Strings
+3. **Miércoles:** [Intersection of Two Arrays II](../LeetCode/Semana%2004/03-Miercoles-intersection-of-two-arrays-ii.md) — Easy · Hash map
+4. **Jueves:** [Is Subsequence](../LeetCode/Semana%2004/04-Jueves-is-subsequence.md) — Easy · Two pointers
+5. **Viernes:** [Longest Consecutive Sequence](../LeetCode/Semana%2004/05-Viernes-longest-consecutive-sequence.md) — Medium · repaso · Set
+
 ## Resultado principal
 
 

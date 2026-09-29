@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 20 — Martes
 
+> [!quote] Frase del día
+> Si el día está pesado, haz el mínimo. El mínimo mantiene la racha.
+
+> [!quote] Palabra de Conor McGregor
+> «Aquí no hay talento. Esto es trabajo duro. Esto es una obsesión.»
+> — *Conor McGregor, campeón de UFC en dos divisiones*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Rotate Image* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 20](../Semana%2020.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Lunes](01-Lunes.md) · [Miércoles →](03-Miercoles.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
-- [Abrir nota del problema](../../LeetCode/Semana%2020/02-Martes-implement-trie-prefix-tree.md)
+- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/) — Medium
+- **Patrón:** Matriz · **Se apoya en:** [Reverse String](../../LeetCode/Semana%2002/04-Jueves-reverse-string.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2020/02-Martes-rotate-image.md) · [repasar el patrón](../../Estudio/Articulos/02-Metodo-para-resolver-problemas.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

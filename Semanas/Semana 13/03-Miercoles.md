@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 13 — Miércoles
 
+> [!quote] Frase del día
+> Explícalo en voz alta, como si ya estuvieras en la entrevista.
+
+> [!quote] Palabra de Jeff Bezos
+> «Sabía que si fallaba no me iba a arrepentir. Lo único de lo que me podría arrepentir era de no haberlo intentado.»
+> — *Jeff Bezos, sobre dejar su trabajo para fundar Amazon*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Island Perimeter* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 13](../Semana%2013.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Martes](02-Martes.md) · [Jueves →](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
-- [Abrir nota del problema](../../LeetCode/Semana%2013/03-Miercoles-redundant-connection.md)
+- [ ] [Island Perimeter](https://leetcode.com/problems/island-perimeter/) — Easy
+- **Patrón:** Grid · **Se apoya en:** [Flood Fill](https://leetcode.com/problems/flood-fill/)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2013/03-Miercoles-island-perimeter.md) · [repasar el patrón](../../Estudio/Articulos/10-Grafos-DFS-y-BFS.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

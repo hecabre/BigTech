@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 06 — Martes
 
+> [!quote] Frase del día
+> Leer una solución y reconstruirla sin verla también es entrenar.
+
+> [!quote] Palabra de Linus Torvalds
+> «Hablar es barato. Enséñame el código.»
+> — *Linus Torvalds, creador de Linux*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Crawler Log Folder* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 06](../Semana%2006.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Lunes](01-Lunes.md) · [Miércoles →](03-Miercoles.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Car Fleet](https://leetcode.com/problems/car-fleet/)
-- [Abrir nota del problema](../../LeetCode/Semana%2006/02-Martes-car-fleet.md)
+- [ ] [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) — Easy
+- **Patrón:** Stack
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2006/02-Martes-crawler-log-folder.md) · [repasar el patrón](../../Estudio/Articulos/05-Pilas-y-colas.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

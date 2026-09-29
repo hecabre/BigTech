@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 08 — Miércoles
 
+> [!quote] Frase del día
+> No se trata de saber todo, sino de poder explicar lo que haces.
+
+> [!quote] Palabra de Steve Jobs
+> «Stay hungry, stay foolish. Sigue con hambre, sigue con locura.»
+> — *Steve Jobs, discurso en Stanford, 2005*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Sqrt(x)* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 08](../Semana%2008.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Martes](02-Martes.md) · [Jueves →](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-- [Abrir nota del problema](../../LeetCode/Semana%2008/03-Miercoles-find-peak-element.md)
+- [ ] [Sqrt(x)](https://leetcode.com/problems/sqrtx/) — Easy
+- **Patrón:** Binary search · **Se apoya en:** [First Bad Version](../../LeetCode/Semana%2008/02-Martes-first-bad-version.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2008/03-Miercoles-sqrtx.md) · [repasar el patrón](../../Estudio/Articulos/07-Busqueda-binaria.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

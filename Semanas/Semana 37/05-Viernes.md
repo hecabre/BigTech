@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 37 — Viernes
 
+> [!quote] Frase del día
+> Terminar la semana ya es un logro. Lo demás es extra.
+
+> [!quote] Palabra de Kobe Bryant
+> «La mentalidad Mamba no se trata de buscar un resultado; se trata del proceso de llegar a ese resultado.»
+> — *Kobe Bryant, The Mamba Mentality*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Longest Consecutive Sequence* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 37](../Semana%2037.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -25,8 +35,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [Abrir nota del problema](../../LeetCode/Semana%2037/05-Viernes-product-of-array-except-self.md)
+- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) — Medium · repaso
+- **Patrón:** Set · **Se apoya en:** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2037/05-Viernes-longest-consecutive-sequence.md) · [repasar el patrón](../../Estudio/Articulos/03-Arrays-hash-maps-y-sets.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

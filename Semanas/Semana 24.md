@@ -23,6 +23,16 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 - [Carpeta de LeetCode opcional](../LeetCode/Semana%2024/)
 - [Registro general de LeetCode](../LeetCode/Registro.md)
 
+## Hilo de LeetCode de la semana
+
+**Enfoque:** DP de dos dimensiones. Cada problema se apoya en el anterior; hazlos en orden.
+
+1. **Lunes:** [Minimum Path Sum](../LeetCode/Semana%2024/01-Lunes-minimum-path-sum.md) — Medium · DP 2D
+2. **Martes:** [Longest Increasing Subsequence](../LeetCode/Semana%2024/02-Martes-longest-increasing-subsequence.md) — Medium · DP 1D
+3. **Miércoles:** [Longest Common Subsequence](../LeetCode/Semana%2024/03-Miercoles-longest-common-subsequence.md) — Medium · DP 2D
+4. **Jueves:** [Partition Equal Subset Sum](../LeetCode/Semana%2024/04-Jueves-partition-equal-subset-sum.md) — Medium · DP knapsack
+5. **Viernes:** [Maximal Square](../LeetCode/Semana%2024/05-Viernes-maximal-square.md) — Medium · DP 2D
+
 ## Resultado principal
 
 

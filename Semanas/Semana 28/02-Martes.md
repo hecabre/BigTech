@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 28 — Martes
 
+> [!quote] Frase del día
+> Escribe el enfoque antes del código. Pensar también es avanzar.
+
+> [!quote] Palabra de Conor McGregor
+> «Aquí no hay talento. Esto es trabajo duro. Esto es una obsesión.»
+> — *Conor McGregor, campeón de UFC en dos divisiones*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Furthest Building You Can Reach* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 28](../Semana%2028.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Lunes](01-Lunes.md) · [Miércoles →](03-Miercoles.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
-- [Abrir nota del problema](../../LeetCode/Semana%2028/02-Martes-task-scheduler.md)
+- [ ] [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) — Medium
+- **Patrón:** Heap greedy · **Se apoya en:** [Kth Largest Element in a Stream](../../LeetCode/Semana%2012/01-Lunes-kth-largest-element-in-a-stream.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2028/02-Martes-furthest-building-you-can-reach.md) · [repasar el patrón](../../Estudio/Articulos/09-Heaps-y-priority-queues.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

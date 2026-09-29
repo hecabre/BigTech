@@ -23,6 +23,16 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 - [Carpeta de LeetCode opcional](../LeetCode/Semana%2007/)
 - [Registro general de LeetCode](../LeetCode/Registro.md)
 
+## Hilo de LeetCode de la semana
+
+**Enfoque:** Listas enlazadas. Cada problema se apoya en el anterior; hazlos en orden.
+
+1. **Lunes:** [Middle of the Linked List](../LeetCode/Semana%2007/01-Lunes-middle-of-the-linked-list.md) — Easy · Fast & slow pointers
+2. **Martes:** [Linked List Cycle](../LeetCode/Semana%2007/02-Martes-linked-list-cycle.md) — Easy · Fast & slow pointers
+3. **Miércoles:** [Remove Linked List Elements](../LeetCode/Semana%2007/03-Miercoles-remove-linked-list-elements.md) — Easy · Linked list
+4. **Jueves:** [Palindrome Linked List](../LeetCode/Semana%2007/04-Jueves-palindrome-linked-list.md) — Easy · Linked list
+5. **Viernes:** [Remove Nth Node From End of List](../LeetCode/Semana%2007/05-Viernes-remove-nth-node-from-end-of-list.md) — Medium · Two pointers
+
 ## Resultado principal
 
 

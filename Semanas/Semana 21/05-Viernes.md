@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 21 — Viernes
 
+> [!quote] Frase del día
+> Reconócete este esfuerzo; no es poca cosa.
+
+> [!quote] Palabra de Kobe Bryant
+> «La mentalidad Mamba no se trata de buscar un resultado; se trata del proceso de llegar a ese resultado.»
+> — *Kobe Bryant, The Mamba Mentality*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Kth Largest Element in an Array* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 21](../Semana%2021.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -25,8 +35,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
-- [Abrir nota del problema](../../LeetCode/Semana%2021/05-Viernes-combination-sum.md)
+- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) — Medium · repaso
+- **Patrón:** Heap / quickselect · **Se apoya en:** [Kth Largest Element in a Stream](../../LeetCode/Semana%2012/01-Lunes-kth-largest-element-in-a-stream.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2021/05-Viernes-kth-largest-element-in-an-array.md) · [repasar el patrón](../../Estudio/Articulos/09-Heaps-y-priority-queues.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

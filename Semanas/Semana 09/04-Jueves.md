@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 09 — Jueves
 
+> [!quote] Frase del día
+> El Online Assessment premia la práctica, no el talento.
+
+> [!quote] Palabra de Jeff Bezos
+> «Trabaja duro, diviértete, haz historia.»
+> — *Jeff Bezos, lema de Amazon*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Balanced Binary Tree* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 09](../Semana%2009.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Miércoles](03-Miercoles.md) · [Viernes →](05-Viernes.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [Abrir nota del problema](../../LeetCode/Semana%2009/04-Jueves-kth-smallest-element-in-a-bst.md)
+- [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) — Easy
+- **Patrón:** Tree DFS · **Se apoya en:** [Diameter of Binary Tree](../../LeetCode/Semana%2009/03-Miercoles-diameter-of-binary-tree.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2009/04-Jueves-balanced-binary-tree.md) · [repasar el patrón](../../Estudio/Articulos/08-Arboles-y-BST.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 17 — Viernes
 
+> [!quote] Frase del día
+> Terminar la semana ya es un logro. Lo demás es extra.
+
+> [!quote] Palabra de Kobe Bryant
+> «Todo lo negativo —la presión, los retos— es una oportunidad para elevarme.»
+> — *Kobe Bryant, cinco veces campeón de la NBA*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Group Anagrams* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 17](../Semana%2017.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
-- [Abrir nota del problema](../../LeetCode/Semana%2017/05-Viernes-jump-game-ii.md)
+- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) — Medium · repaso
+- **Patrón:** Hash map · **Se apoya en:** [Valid Anagram](../../LeetCode/Semana%2001/02-Martes-valid-anagram.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2017/05-Viernes-group-anagrams.md) · [repasar el patrón](../../Estudio/Articulos/03-Arrays-hash-maps-y-sets.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día
