@@ -3,8 +3,8 @@
 [← Anterior: Continuous Subarray Sum](../Semana%2019/03-Miercoles-continuous-subarray-sum.md) · [Siguiente: Longest Repeating Character Replacement →](../Semana%2019/05-Viernes-longest-repeating-character-replacement.md)
 
 > [!quote] Para darle con todo
-> «La simplicidad es requisito para la confiabilidad.»
-> — *Edsger Dijkstra, Premio Turing*
+> «Tal vez no pueda ganar. Pero para vencerme, va a tener que matarme. Y para matarme, va a tener que tener el valor de pararse frente a mí. Y para hacer eso, tiene que estar dispuesto a morir él también.»
+> — *Rocky Balboa, Rocky IV, antes de pelear contra Drago*
 
 - **Problema:** [Abrir en LeetCode](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 - **Dificultad:** Medium

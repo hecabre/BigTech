@@ -3,8 +3,8 @@
 [← Anterior: Two Sum IV - Input is a BST](../Semana%2011/03-Miercoles-two-sum-iv-input-is-a-bst.md) · [Siguiente: Lowest Common Ancestor of a Binary Tree →](../Semana%2011/05-Viernes-lowest-common-ancestor-of-a-binary-tree.md)
 
 > [!quote] Para darle con todo
-> «La simplicidad es requisito para la confiabilidad.»
-> — *Edsger Dijkstra, Premio Turing*
+> «Tal vez no pueda ganar. Pero para vencerme, va a tener que matarme. Y para matarme, va a tener que tener el valor de pararse frente a mí. Y para hacer eso, tiene que estar dispuesto a morir él también.»
+> — *Rocky Balboa, Rocky IV, antes de pelear contra Drago*
 
 - **Problema:** [Abrir en LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - **Dificultad:** Medium

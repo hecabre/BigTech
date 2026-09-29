@@ -3,8 +3,8 @@
 [← Anterior: Evaluate Division](../Semana%2027/03-Miercoles-evaluate-division.md) · [Siguiente: Copy List with Random Pointer →](../Semana%2027/05-Viernes-copy-list-with-random-pointer.md)
 
 > [!quote] Para darle con todo
-> «La simplicidad es requisito para la confiabilidad.»
-> — *Edsger Dijkstra, Premio Turing*
+> «Tal vez no pueda ganar. Pero para vencerme, va a tener que matarme. Y para matarme, va a tener que tener el valor de pararse frente a mí. Y para hacer eso, tiene que estar dispuesto a morir él también.»
+> — *Rocky Balboa, Rocky IV, antes de pelear contra Drago*
 
 - **Problema:** [Abrir en LeetCode](https://leetcode.com/problems/is-graph-bipartite/)
 - **Dificultad:** Medium

@@ -10,9 +10,9 @@ estado: Pendiente
 > [!quote] Frase del día
 > Hay semanas pesadas. Esta no tiene que ser perfecta para contar.
 
-> [!quote] Palabra de Edsger Dijkstra
-> «La simplicidad es requisito para la confiabilidad.»
-> — *Edsger Dijkstra, Premio Turing*
+> [!quote] Palabra de Rocky Balboa
+> «Tal vez no pueda ganar. Pero para vencerme, va a tener que matarme. Y para matarme, va a tener que tener el valor de pararse frente a mí. Y para hacer eso, tiene que estar dispuesto a morir él también.»
+> — *Rocky Balboa, Rocky IV, antes de pelear contra Drago*
 
 > [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
 > Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *3Sum* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
