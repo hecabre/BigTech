@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 15 — Viernes
 
+> [!quote] Frase del día
+> A tu yo de hace un mes le sorprendería lo que ya sabes.
+
+> [!quote] Palabra de David Goggins
+> «Cuando crees que ya no puedes más, apenas vas al 40%.»
+> — *David Goggins, la regla del 40%*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Word Search* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 15](../Semana%2015.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
-- [Abrir nota del problema](../../LeetCode/Semana%2015/05-Viernes-word-search.md)
+- [ ] [Word Search](https://leetcode.com/problems/word-search/) — Medium
+- **Patrón:** Backtracking en grid · **Se apoya en:** [Number of Islands](../../LeetCode/Semana%2014/05-Viernes-number-of-islands.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2015/05-Viernes-word-search.md) · [repasar el patrón](../../Estudio/Articulos/11-Backtracking.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

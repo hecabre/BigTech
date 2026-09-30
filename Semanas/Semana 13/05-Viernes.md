@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 13 — Viernes
 
+> [!quote] Frase del día
+> Hoy es día de repasar, no de aprender cosas nuevas.
+
+> [!quote] Palabra de Kobe Bryant
+> «La mentalidad Mamba no se trata de buscar un resultado; se trata del proceso de llegar a ese resultado.»
+> — *Kobe Bryant, The Mamba Mentality*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Number of Provinces* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 13](../Semana%2013.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
-- [Abrir nota del problema](../../LeetCode/Semana%2013/05-Viernes-max-area-of-island.md)
+- [ ] [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) — Medium
+- **Patrón:** Graph DFS / Union-Find · **Se apoya en:** [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2013/05-Viernes-number-of-provinces.md) · [repasar el patrón](../../Estudio/Articulos/10-Grafos-DFS-y-BFS.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

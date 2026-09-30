@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 33 — Jueves
 
+> [!quote] Frase del día
+> Un problema hoy. Solo uno. Luego descansas.
+
+> [!quote] Palabra de Jeff Bezos
+> «Trabaja duro, diviértete, haz historia.»
+> — *Jeff Bezos, lema de Amazon*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Merge k Sorted Lists* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 33](../Semana%2033.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Miércoles](03-Miercoles.md) · [Viernes →](05-Viernes.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [Abrir nota del problema](../../LeetCode/Semana%2033/04-Jueves-course-schedule.md)
+- [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) — Hard · repaso
+- **Patrón:** Heap · **Se apoya en:** [Merge Two Sorted Lists](../../LeetCode/Semana%2021/02-Martes-merge-two-sorted-lists.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2033/04-Jueves-merge-k-sorted-lists.md) · [repasar el patrón](../../Estudio/Articulos/09-Heaps-y-priority-queues.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

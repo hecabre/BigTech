@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 24 — Lunes
 
+> [!quote] Frase del día
+> No tienes que hacer toda la semana hoy. Solo el primer paso.
+
+> [!quote] Palabra de Jocko Willink
+> «Cuando algo sale mal, solo di: «Good». Ahora tienes algo de qué aprender.»
+> — *Jocko Willink, ex Navy SEAL*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Minimum Path Sum* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 24](../Semana%2024.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [Martes →](02-Martes.md)
@@ -25,8 +35,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Word Break](https://leetcode.com/problems/word-break/)
-- [Abrir nota del problema](../../LeetCode/Semana%2024/01-Lunes-word-break.md)
+- [ ] [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) — Medium
+- **Patrón:** DP 2D · **Se apoya en:** [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2024/01-Lunes-minimum-path-sum.md) · [repasar el patrón](../../Estudio/Articulos/14-Programacion-dinamica.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

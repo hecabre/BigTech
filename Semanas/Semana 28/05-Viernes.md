@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 28 — Viernes
 
+> [!quote] Frase del día
+> Anota un aprendizaje. Mañana ya no lo recordarás igual.
+
+> [!quote] Palabra de Richard Feynman
+> «El primer principio es no autoengañarte, y la persona más fácil de engañar eres tú.»
+> — *Richard Feynman, Nobel de Física*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Top K Frequent Words* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 28](../Semana%2028.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -25,8 +35,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [IPO](https://leetcode.com/problems/ipo/)
-- [Abrir nota del problema](../../LeetCode/Semana%2028/05-Viernes-ipo.md)
+- [ ] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) — Medium · repaso
+- **Patrón:** Heap + Hash map · **Se apoya en:** [Top K Frequent Elements](../../LeetCode/Semana%2020/05-Viernes-top-k-frequent-elements.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2028/05-Viernes-top-k-frequent-words.md) · [repasar el patrón](../../Estudio/Articulos/09-Heaps-y-priority-queues.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

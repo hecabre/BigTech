@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 21 — Lunes
 
+> [!quote] Frase del día
+> Hoy practicas; la entrevista solo será una práctica más.
+
+> [!quote] Palabra de Rocky Balboa
+> «Tal vez no pueda ganar. Pero para vencerme, va a tener que matarme. Y para matarme, va a tener que tener el valor de pararse frente a mí. Y para hacer eso, tiene que estar dispuesto a morir él también.»
+> — *Rocky Balboa, Rocky IV, antes de pelear contra Drago*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Valid Anagram* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 21](../Semana%2021.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [Martes →](02-Martes.md)
@@ -25,8 +35,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
-- [Abrir nota del problema](../../LeetCode/Semana%2021/01-Lunes-rotting-oranges.md)
+- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) — Easy · repaso
+- **Patrón:** Hash map
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2021/01-Lunes-valid-anagram.md) · [repasar el patrón](../../Estudio/Articulos/03-Arrays-hash-maps-y-sets.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

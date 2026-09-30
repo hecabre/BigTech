@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 18 — Miércoles
 
+> [!quote] Frase del día
+> Si hay cansancio, cambia el problema nuevo por un repaso. También cuenta.
+
+> [!quote] Palabra de Grace Hopper
+> «La frase más peligrosa del idioma es: «Siempre lo hemos hecho así».»
+> — *Grace Hopper, pionera de la computación y almirante de la Marina de EE. UU.*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Minimum Number of Arrows to Burst Balloons* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 18](../Semana%2018.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Martes](02-Martes.md) · [Jueves →](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-- [Abrir nota del problema](../../LeetCode/Semana%2018/03-Miercoles-non-overlapping-intervals.md)
+- [ ] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) — Medium
+- **Patrón:** Intervalos greedy · **Se apoya en:** [Non-overlapping Intervals](../../LeetCode/Semana%2018/02-Martes-non-overlapping-intervals.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2018/03-Miercoles-minimum-number-of-arrows-to-burst-balloons.md) · [repasar el patrón](../../Estudio/Articulos/12-Greedy-e-intervalos.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

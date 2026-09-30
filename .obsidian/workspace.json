@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md",
+                "file": "LeetCode/Semana 03/05-Viernes-two-sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-CALENDARIO_SEMANAL_BIG_TECH_AWS"
+              "title": "05-Viernes-two-sum"
             }
           }
         ]
@@ -190,31 +190,32 @@
   },
   "active": "87bc80091f510707",
   "lastOpenFiles": [
-    "LeetCode/Semana 02/03-Miercoles-sort-colors.md",
-    "LeetCode/Semana 02/02-Martes-3sum.md",
-    "LeetCode/Semana 02/01-Lunes-container-with-most-water.md",
+    "LeetCode/Semana 03/04-Jueves-isomorphic-strings.md",
+    "LeetCode/Semana 03/03-Miercoles-ransom-note.md",
+    "LeetCode/Semana 03/02-Martes-longest-consecutive-sequence.md",
+    "LeetCode/Semana 03/01-Lunes-single-number.md",
     "01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md",
+    "Semanas/Semana 04/02-Martes.md",
+    "Semanas/Semana 04/01-Lunes.md",
+    "LeetCode/Semana 04/01-Lunes-roman-to-integer.md",
+    "Semanas/Semana 04.md",
     "02-TABLERO-DE-PROGRESO.md",
-    "00-Plan-principal.md",
-    "README.md",
-    "Estudio/Articulos/04-Dos-punteros-y-ventana-deslizante.md",
-    "Estudio/Semana 03.md",
-    "Semanas/Semana 03/02-Martes.md",
-    "Semanas/Semana 03/Tabla Comparativa.md",
-    "Semanas/Semana 03/01-Lunes.md",
-    "LeetCode/Semana 02/04-Jueves-reverse-string.md",
-    "Semanas/Semana 02/04-Jueves.md",
-    "Semanas/Semana 02/05-Viernes.md",
-    "Semanas/Semana 01/05-Viernes.md",
-    "Semanas/Semana 01/03-Miercoles.md",
-    "Semanas/Semana 01/02-Martes.md",
-    "Semanas/Semana 01/01-Lunes.md",
-    "Semanas/Semana 02.md",
-    "Semanas/00-Índice-semanal.md",
-    "Semanas/Semana 01.md",
-    "LeetCode/Semana 01/05-Viernes-single-number.md",
-    "Estudio/Articulos/01-Complejidad-tiempo-y-espacio.md",
-    "Semana 1/Primera semana.md",
+    "LeetCode/Semana 38/05-Viernes-product-of-array-except-self.md",
+    "LeetCode/Semana 38/04-Jueves-number-of-islands.md",
+    "LeetCode/Semana 38/03-Miercoles-lru-cache.md",
+    "LeetCode/Semana 38/02-Martes-merge-intervals.md",
+    "LeetCode/Semana 38/01-Lunes-valid-parentheses.md",
+    "LeetCode/Semana 37/05-Viernes-longest-consecutive-sequence.md",
+    "LeetCode/Semana 37/04-Jueves-decode-ways.md",
+    "LeetCode/Semana 37/03-Miercoles-validate-binary-search-tree.md",
+    "LeetCode/Semana 37/01-Lunes-3sum.md",
+    "LeetCode/Semana 36/05-Viernes-copy-list-with-random-pointer.md",
+    "LeetCode/Semana 36/04-Jueves-basic-calculator-ii.md",
+    "LeetCode/Semana 36/03-Miercoles-accounts-merge.md",
+    "LeetCode/Semana 36/02-Martes-random-pick-with-weight.md",
+    "LeetCode/Semana 36/01-Lunes-decode-string.md",
+    "LeetCode/Semana 35/05-Viernes-word-ladder.md",
+    "LeetCode/Semana 35/04-Jueves-trapping-rain-water.md",
     "Semana 1"
   ]
 }

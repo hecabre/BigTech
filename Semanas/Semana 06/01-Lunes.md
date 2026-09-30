@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 06 — Lunes
 
+> [!quote] Frase del día
+> Un lunes a medias vale más que un lunes perfecto que nunca empezó.
+
+> [!quote] Palabra de Frida Kahlo
+> «Pies, ¿para qué los quiero si tengo alas pa' volar?»
+> — *Frida Kahlo, de su diario, 1953*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Final Prices With a Special Discount in a Shop* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 06](../Semana%2006.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [Martes →](02-Martes.md)
@@ -26,8 +36,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Simplify Path](https://leetcode.com/problems/simplify-path/)
-- [Abrir nota del problema](../../LeetCode/Semana%2006/01-Lunes-simplify-path.md)
+- [ ] [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) — Easy
+- **Patrón:** Monotonic stack · **Se apoya en:** [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2006/01-Lunes-final-prices-with-a-special-discount-in-a-shop.md) · [repasar el patrón](../../Estudio/Articulos/05-Pilas-y-colas.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

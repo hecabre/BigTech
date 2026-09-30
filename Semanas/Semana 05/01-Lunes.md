@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 05 — Lunes
 
+> [!quote] Frase del día
+> Empezar es lo difícil. Los primeros 10 minutos son los únicos que cuestan.
+
+> [!quote] Palabra de Rocky Balboa
+> «Tal vez no pueda ganar. Pero para vencerme, va a tener que matarme. Y para matarme, va a tener que tener el valor de pararse frente a mí. Y para hacer eso, tiene que estar dispuesto a morir él también.»
+> — *Rocky Balboa, Rocky IV, antes de pelear contra Drago*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Baseball Game* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 05](../Semana%2005.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [Martes →](02-Martes.md)
@@ -26,8 +36,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
-- [Abrir nota del problema](../../LeetCode/Semana%2005/01-Lunes-asteroid-collision.md)
+- [ ] [Baseball Game](https://leetcode.com/problems/baseball-game/) — Easy
+- **Patrón:** Stack · **Se apoya en:** [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2005/01-Lunes-baseball-game.md) · [repasar el patrón](../../Estudio/Articulos/05-Pilas-y-colas.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

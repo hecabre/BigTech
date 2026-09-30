@@ -23,6 +23,16 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 - [Carpeta de LeetCode opcional](../LeetCode/Semana%2031/)
 - [Registro general de LeetCode](../LeetCode/Registro.md)
 
+## Hilo de LeetCode de la semana
+
+**Enfoque:** Etiquetados frecuentes de Amazon. Cada problema se apoya en el anterior; hazlos en orden.
+
+1. **Lunes:** [Most Common Word](../LeetCode/Semana%2031/01-Lunes-most-common-word.md) — Easy · Hash map
+2. **Martes:** [Reorder Data in Log Files](../LeetCode/Semana%2031/02-Martes-reorder-data-in-log-files.md) — Medium · Ordenamiento custom
+3. **Miércoles:** [Search Suggestions System](../LeetCode/Semana%2031/03-Miercoles-search-suggestions-system.md) — Medium · Sorting + binary search / Trie
+4. **Jueves:** [Partition Labels](../LeetCode/Semana%2031/04-Jueves-partition-labels.md) — Medium · Greedy
+5. **Viernes:** [Merge Intervals](../LeetCode/Semana%2031/05-Viernes-merge-intervals.md) — Medium · repaso · Intervalos
+
 ## Resultado principal
 
 

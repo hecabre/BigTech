@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 25 — Viernes
 
+> [!quote] Frase del día
+> Celebra lo que sí hiciste antes de mirar lo que falta.
+
+> [!quote] Palabra de Kobe Bryant
+> «Todo lo negativo —la presión, los retos— es una oportunidad para elevarme.»
+> — *Kobe Bryant, cinco veces campeón de la NBA*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Redundant Connection* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 25](../Semana%2025.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -25,8 +35,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)
-- [Abrir nota del problema](../../LeetCode/Semana%2025/05-Viernes-all-ancestors-of-a-node-in-a-directed-acyclic-graph.md)
+- [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/) — Medium
+- **Patrón:** Union-Find · **Se apoya en:** [Number of Provinces](../../LeetCode/Semana%2013/05-Viernes-number-of-provinces.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2025/05-Viernes-redundant-connection.md) · [repasar el patrón](../../Estudio/Articulos/15-Orden-topologico.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

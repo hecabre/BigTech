@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 27 — Viernes
 
+> [!quote] Frase del día
+> El fin de semana es para descansar. Te lo ganaste.
+
+> [!quote] Palabra de David Goggins
+> «Corres el peligro de vivir una vida tan cómoda y blanda que te mueras sin descubrir tu verdadero potencial.»
+> — *David Goggins, Can't Hurt Me*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Copy List with Random Pointer* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 27](../Semana%2027.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -25,8 +35,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
-- [Abrir nota del problema](../../LeetCode/Semana%2027/05-Viernes-max-area-of-island.md)
+- [ ] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) — Medium
+- **Patrón:** Hash map + linked list · **Se apoya en:** [Clone Graph](https://leetcode.com/problems/clone-graph/)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2027/05-Viernes-copy-list-with-random-pointer.md) · [repasar el patrón](../../Estudio/Articulos/06-Listas-enlazadas.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

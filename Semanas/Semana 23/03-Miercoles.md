@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 23 — Miércoles
 
+> [!quote] Frase del día
+> Recuerda por qué empezaste: mayo, Amazon, tu primera oferta.
+
+> [!quote] Palabra de Michael Jordan
+> «He fallado más de 9,000 tiros en mi carrera. He perdido casi 300 partidos. 26 veces me confiaron el tiro ganador y lo fallé. He fallado una y otra y otra vez en mi vida. Y por eso tengo éxito.»
+> — *Michael Jordan, seis veces campeón de la NBA*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *House Robber II* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 23](../Semana%2023.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Martes](02-Martes.md) · [Jueves →](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Word Break](https://leetcode.com/problems/word-break/)
-- [Abrir nota del problema](../../LeetCode/Semana%2023/03-Miercoles-word-break.md)
+- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/) — Medium
+- **Patrón:** DP 1D · **Se apoya en:** [House Robber](https://leetcode.com/problems/house-robber/)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2023/03-Miercoles-house-robber-ii.md) · [repasar el patrón](../../Estudio/Articulos/14-Programacion-dinamica.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

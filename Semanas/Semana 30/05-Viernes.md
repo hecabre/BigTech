@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 30 — Viernes
 
+> [!quote] Frase del día
+> Mira tu registro: esta semana también aprendiste algo.
+
+> [!quote] Palabra de Theodore Roosevelt
+> «El mérito pertenece a quien está realmente en la arena, con la cara manchada de polvo, sudor y sangre.»
+> — *Theodore Roosevelt, «El hombre en la arena», 1910*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *LRU Cache* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 30](../Semana%2030.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -25,8 +35,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-- [Abrir nota del problema](../../LeetCode/Semana%2030/05-Viernes-top-k-frequent-elements.md)
+- [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/) — Medium · repaso
+- **Patrón:** Hash map + lista doble · **Se apoya en:** [Design HashMap](../../LeetCode/Semana%2026/01-Lunes-design-hashmap.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2030/05-Viernes-lru-cache.md) · [repasar el patrón](../../Estudio/Articulos/16-POO-y-SOLID.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

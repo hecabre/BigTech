@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 09 — Viernes
 
+> [!quote] Frase del día
+> Lo que no salió se mueve al lunes. Sin culpa.
+
+> [!quote] Palabra de Kobe Bryant
+> «Todo lo negativo —la presión, los retos— es una oportunidad para elevarme.»
+> — *Kobe Bryant, cinco veces campeón de la NBA*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Subtree of Another Tree* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 09](../Semana%2009.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [Abrir nota del problema](../../LeetCode/Semana%2009/05-Viernes-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) — Easy
+- **Patrón:** Tree DFS · **Se apoya en:** [Same Tree](https://leetcode.com/problems/same-tree/)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2009/05-Viernes-subtree-of-another-tree.md) · [repasar el patrón](../../Estudio/Articulos/08-Arboles-y-BST.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

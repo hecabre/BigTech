@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 08 — Viernes
 
+> [!quote] Frase del día
+> Anota un aprendizaje. Mañana ya no lo recordarás igual.
+
+> [!quote] Palabra de Rocky Balboa
+> «No se trata de qué tan fuerte pegas. Se trata de qué tan fuerte te pueden pegar y seguir avanzando.»
+> — *Rocky Balboa, personaje de Sylvester Stallone*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Find First and Last Position of Element in Sorted Array* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 08](../Semana%2008.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-- [Abrir nota del problema](../../LeetCode/Semana%2008/05-Viernes-search-a-2d-matrix.md)
+- [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) — Medium
+- **Patrón:** Binary search · **Se apoya en:** [First Bad Version](../../LeetCode/Semana%2008/02-Martes-first-bad-version.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2008/05-Viernes-find-first-and-last-position-of-element-in-sorted-array.md) · [repasar el patrón](../../Estudio/Articulos/07-Busqueda-binaria.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

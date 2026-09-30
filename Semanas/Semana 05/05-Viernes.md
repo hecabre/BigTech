@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 05 — Viernes
 
+> [!quote] Frase del día
+> Celebra lo que sí hiciste antes de mirar lo que falta.
+
+> [!quote] Palabra de Kobe Bryant
+> «La mentalidad Mamba no se trata de buscar un resultado; se trata del proceso de llegar a ese resultado.»
+> — *Kobe Bryant, The Mamba Mentality*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Evaluate Reverse Polish Notation* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 05](../Semana%2005.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Jueves](04-Jueves.md)
@@ -25,8 +35,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
-- [Abrir nota del problema](../../LeetCode/Semana%2005/05-Viernes-backspace-string-compare.md)
+- [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) — Medium
+- **Patrón:** Stack · **Se apoya en:** [Baseball Game](../../LeetCode/Semana%2005/01-Lunes-baseball-game.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2005/05-Viernes-evaluate-reverse-polish-notation.md) · [repasar el patrón](../../Estudio/Articulos/05-Pilas-y-colas.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

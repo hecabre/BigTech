@@ -23,6 +23,16 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 - [Carpeta de LeetCode opcional](../LeetCode/Semana%2021/)
 - [Registro general de LeetCode](../LeetCode/Registro.md)
 
+## Hilo de LeetCode de la semana
+
+**Enfoque:** Semana de examen SAA — solo repaso. Cada problema se apoya en el anterior; hazlos en orden.
+
+1. **Lunes:** [Valid Anagram](../LeetCode/Semana%2021/01-Lunes-valid-anagram.md) — Easy · repaso · Hash map
+2. **Martes:** [Merge Two Sorted Lists](../LeetCode/Semana%2021/02-Martes-merge-two-sorted-lists.md) — Easy · repaso · Linked list
+3. **Miércoles:** [Binary Search](../LeetCode/Semana%2021/03-Miercoles-binary-search.md) — Easy · repaso · Binary search
+4. **Jueves:** [Invert Binary Tree](../LeetCode/Semana%2021/04-Jueves-invert-binary-tree.md) — Easy · repaso · Tree DFS
+5. **Viernes:** [Kth Largest Element in an Array](../LeetCode/Semana%2021/05-Viernes-kth-largest-element-in-an-array.md) — Medium · repaso · Heap / quickselect
+
 ## Resultado principal
 
 

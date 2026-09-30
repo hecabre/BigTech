@@ -7,6 +7,16 @@ estado: Pendiente
 
 # Semana 05 — Jueves
 
+> [!quote] Frase del día
+> La constancia de hoy es la confianza de la entrevista.
+
+> [!quote] Palabra de Mike Tyson
+> «Disciplina es hacer lo que odias como si lo amaras.»
+> — *Mike Tyson, campeón mundial de peso completo*
+
+> [!tip]- ¿El día está pesado? Esto es el mínimo que cuenta
+> Haz solo una cosa: la primera tarea del calendario **o** leer la Pista 1 de *Make The String Great* y escribir tu enfoque en tres líneas. Con eso el día cuenta y la racha sigue.
+
 Semana: [Semana 05](../Semana%2005.md)
 Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md)
 [← Miércoles](03-Miercoles.md) · [Viernes →](05-Viernes.md)
@@ -24,8 +34,9 @@ Calendario: [abrir calendario completo](../../01-CALENDARIO_SEMANAL_BIG_TECH_AWS
 
 ## LeetCode adicional — opcional
 
-- [ ] [Car Fleet](https://leetcode.com/problems/car-fleet/)
-- [Abrir nota del problema](../../LeetCode/Semana%2005/04-Jueves-car-fleet.md)
+- [ ] [Make The String Great](https://leetcode.com/problems/make-the-string-great/) — Easy
+- **Patrón:** Stack · **Se apoya en:** [Remove All Adjacent Duplicates In String](../../LeetCode/Semana%2005/02-Martes-remove-all-adjacent-duplicates-in-string.md)
+- [Abrir nota con guía y pistas](../../LeetCode/Semana%2005/04-Jueves-make-the-string-great.md) · [repasar el patrón](../../Estudio/Articulos/05-Pilas-y-colas.md)
 - Al terminar, actualizar el [registro general](../../LeetCode/Registro.md).
 
 ## Registro del día

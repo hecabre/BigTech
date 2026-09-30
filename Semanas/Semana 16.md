@@ -23,6 +23,16 @@ Calendario: [abrir calendario completo](../01-CALENDARIO_SEMANAL_BIG_TECH_AWS.md
 - [Carpeta de LeetCode opcional](../LeetCode/Semana%2016/)
 - [Registro general de LeetCode](../LeetCode/Registro.md)
 
+## Hilo de LeetCode de la semana
+
+**Enfoque:** Semana ligera — repaso de fundamentos. Cada problema se apoya en el anterior; hazlos en orden.
+
+1. **Lunes:** [Two Sum](../LeetCode/Semana%2016/01-Lunes-two-sum.md) — Easy · repaso · Hash map
+2. **Martes:** [Valid Parentheses](../LeetCode/Semana%2016/02-Martes-valid-parentheses.md) — Easy · repaso · Stack
+3. **Miércoles:** [Reverse Linked List](../LeetCode/Semana%2016/03-Miercoles-reverse-linked-list.md) — Easy · repaso · Linked list
+4. **Jueves:** [Maximum Depth of Binary Tree](../LeetCode/Semana%2016/04-Jueves-maximum-depth-of-binary-tree.md) — Easy · repaso · Tree DFS
+5. **Viernes:** [Subsets](../LeetCode/Semana%2016/05-Viernes-subsets.md) — Medium · repaso · Backtracking
+
 ## Resultado principal
 
 
