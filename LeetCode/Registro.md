@@ -2,9 +2,10 @@
 
 Añade una fila después de cada intento, incluso si no terminaste el problema.
 
-| Fecha | Problema | Patrón | Minutos | Estado | Complejidad | Error principal | Próximo intento |
-|---|---|---|---:|---|---|---|---|
-| | | | | Nuevo / Con ayuda / Resuelto / Explicable | | | |
+| Fecha     | Problema                                                                                    | Patrón |    Minutos | Estado              | Complejidad                               | Error principal                                                                                                                                                                                                                                                                                | Próximo intento |
+| --------- | ------------------------------------------------------------------------------------------- | ------ | ---------: | ------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| 28/9/2026 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Set    | 25 Minutos | Con ayuda de yepeto | O(N) el ejercicio lo pedia explicitamente | Primero quise hacer un map, para guadar el valor anterior y buscar en ese map, pero tendria que recorrer varias veces. Despues quise hacerlo pero juntado el set con el map, pero no era necesario. Despues dije como hago para poder salirme de las repeticiones y como obtengo repeticiones? |                 |
+|           |                                                                                             |        |            |                     |                                           |                                                                                                                                                                                                                                                                                                |                 |
 
 ## Métricas semanales
 

@@ -111,9 +111,9 @@ Notas relacionadas: [plan principal](00-Plan-principal.md) · [tablero](02-TABLE
 
 **Objetivo:** aprobar Cloud Practitioner o tomar una decisión basada en resultados.
 
-- [ ] **Lunes:** realizar un simulacro completo en condiciones de examen.
-- [ ] **Lunes:** estudiar únicamente los dos dominios con peor resultado.
-- [ ] **Lunes:** resolver dos problemas Easy en 70 minutos sin autocompletado.
+- [x] **Lunes:** realizar un simulacro completo en condiciones de examen.
+- [x] **Lunes:** estudiar únicamente los dos dominios con peor resultado.
+- [x] **Lunes:** resolver dos problemas Easy en 70 minutos sin autocompletado.
 - [ ] **Martes:** revisar todos los distractores del simulacro y explicar por qué son incorrectos.
 - [ ] **Miércoles:** realizar el Official Practice Exam de Skill Builder.
 - [ ] **Jueves:** repasar flashcards, modelo de responsabilidad compartida, facturación, soporte y servicios confundidos.
